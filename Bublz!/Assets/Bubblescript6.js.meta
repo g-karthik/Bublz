@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 9dd053a105f2d9e41b1e6ba3186a2521
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - messageBoxImage: {fileID: 2800000, guid: 3903d4751f4f49345b6909154bd4202a, type: 3}
+  - scoreScreen: {fileID: 2800000, guid: 135905094db6aa2459e1f7bf35d44597, type: 3}
+  - popSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

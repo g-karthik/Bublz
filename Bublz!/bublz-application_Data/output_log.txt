@@ -1,0 +1,36 @@
+Initialize engine version: 4.3.1f1 (cebd4d9b5122)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx64.dll 8.17.10.29]
+    Renderer: ATI Mobility Radeon HD 5470 
+    Vendor:   ATI
+    VRAM:     1014 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Dell\Documents\Bublz!\bublz-application_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Dell\Documents\Bublz!\bublz-application_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Dell\Documents\Bublz!\bublz-application_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Dell\Documents\Bublz!\bublz-application_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Dell\Documents\Bublz!\bublz-application_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Dell\Documents\Bublz!\bublz-application_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Dell\Documents\Bublz!\bublz-application_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Dell\Documents\Bublz!\bublz-application_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Dell\Documents\Bublz!\bublz-application_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Dell\Documents\Bublz!\bublz-application_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.385 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Dell\Documents\Bublz!\bublz-application_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 0.649889 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.509918 ms (FindLiveObjects: 0.020379 ms CreateObjectMapping: 0.029437 ms MarkObjects: 0.143111 ms  DeleteObjects: 0.088312 ms)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 1539)
+

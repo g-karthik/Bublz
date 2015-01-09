@@ -1,7 +1,7 @@
 Introduction
 =====
 
-Bublz! is a single-player game aimed at improving the calculation and reasoning abilities of players through practice.
+Bublz! is a single-player game aimed at developing and improving mathematical thinking.
 
 The game was developed during a 15-day winter internship program in technology-supported education organized by Carnegie Mellon University in Bangalore during December 2013.
 
